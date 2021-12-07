@@ -1,0 +1,17 @@
+<resources>
+     <string name="app_name">SkillsSearch</string>
+     <array name="menuOptions">
+	  <item>Home</item>
+	  <item>Profile</item>
+	  <item>About Us</item>
+     </array>
+     <string name="noconnection">Kindly connect to a WIFI network or enable Mobile Data</string>
+     <string name="facebook_app_id">2166068723711987</string>
+     <string name="fb_login_protocol_scheme">fb2166068723711987</string>
+     <string name="title_activity_maps">Map</string>
+    <string name="avneesh_patel_ncomputer_science_and_engineering_nlovely_professional_university_avneeshp398_gmail_com_91_9023895196">Avneesh Patel\nComputer Science and Engineering\nLovely Professional University avneeshp398@gmail.com +91-9023895196</string>
+    <string name="rohit_mishra_ncomputer_science_and_engineering_nlovely_professional_university_rohitmisra598_gmail_com_91_8968453619">Rohit Mishra\nComputer Science and Engineering\nLovely Professional University rohitmisra598@gmail.com +91-8968453619</string>
+    <string name="google_maps_key">AIzaSyB306kZDj4YpuXpdAxmK21Jp2c_Ozq_iCQ</string>
+    <string name="nameapp">SkillSearch</string>
+</resources>
+

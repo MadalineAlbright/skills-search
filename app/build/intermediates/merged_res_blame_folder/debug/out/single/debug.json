@@ -1,0 +1,450 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_seeker_profile_data_edit.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\seeker_profile_data_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_recruiter.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_edit_recruiter.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loco2.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\loco2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_seeker_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_seeker_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_job.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\job.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_black_user.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\black_user.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_bg.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\main_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_internetconnection.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\internetconnection.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_black_user.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\black_user.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bricklayer.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\bricklayer.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_internetconnection.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\internetconnection.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_recruiter_profile_data_edit.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\recruiter_profile_data_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\anim_test.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\anim\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradientbackground.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable-v24\\gradientbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_forum_black_24dp.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_forum_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_circle_border.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable-v24\\circle_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recruiter_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_recruiter_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_black_user.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\black_user.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_internetconnection.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\internetconnection.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kvsn.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\kvsn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_seeker_profile.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_seeker_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_black_user.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\black_user.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_circle.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable-v24\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_layout.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\my_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_get_location.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_get_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_recruiter_profile_data_view.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\recruiter_profile_data_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_black_user.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\black_user.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carpainter.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\carpainter.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plumber.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\plumber.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_job1.jpeg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\job1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_edit_black_24dp.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loco.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\loco.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cover2.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\cover2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_seeker.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_edit_seeker.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_helpimagebackground.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable-v24\\helpimagebackground.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_viv.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable-v24\\viv.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show_comments.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_show_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_labour.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\labour.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo_upload.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_photo_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show__available_worker__profile.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_show__available_worker__profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_signup.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\signup.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cover1.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\cover1.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aadhar.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable-v24\\aadhar.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_black_user.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\black_user.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadein.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadeout.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_forgot.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\forgot.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_tablet_android_black_24dp.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_tablet_android_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_divider.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\item_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reviewdailog.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_reviewdailog.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_internetconnection.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\internetconnection.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cover.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\cover.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\font_castro.ttf.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\font\\castro.ttf"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_border.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable-v24\\button_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_harshit.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable-v24\\harshit.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_av.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable-v24\\av.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_black_user.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\black_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_comment_cardview.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\comment_cardview.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_seeker_profile_data_view.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\seeker_profile_data_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgot_password_module.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_forgot_password_module.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_internetconnection.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\internetconnection.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_internetconnection.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\internetconnection.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_log.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\log.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_header.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_avneesh.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable-v24\\avneesh.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_painter.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\painter.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue_stripes_bg.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\blue_stripes_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recruiter_profile.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_recruiter_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_available_workers.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_available_workers.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\profile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vishnu_profileimg.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable-v24\\vishnu_profileimg.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_worker.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\worker.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_electrician.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\electrician.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rohitprofile.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable-v24\\rohitprofile.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_grad.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable-v24\\grad.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_targetp.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable-v24\\targetp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\src\\main\\res\\drawable\\location.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_internetconnection.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SkillSearch\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\internetconnection.png"
+    }
+]

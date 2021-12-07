@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@drawable/grad"
+	android:orientation="vertical"
+	tools:context=".GetLocation">
+
+
+	<TextView
+		android:id="@+id/textView"
+		android:layout_width="358dp"
+		android:layout_height="72dp"
+		android:layout_marginBottom="32dp"
+		android:text="Where do you need the
+              service ?"
+		android:textSize="25dp"
+		android:textStyle="bold"
+		app:layout_constraintBottom_toTopOf="@+id/curr_Location"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintHorizontal_bias="0.301"
+		app:layout_constraintStart_toStartOf="parent" />
+
+	<androidx.cardview.widget.CardView
+		android:id="@+id/curr_Location"
+		android:layout_width="match_parent"
+		android:layout_height="60dp"
+		android:layout_centerHorizontal="true"
+		android:layout_gravity="left"
+		android:layout_margin="20dp"
+		android:layout_marginStart="17dp"
+		android:clickable="true"
+		android:innerRadius="0dp"
+		android:onClick="dothis"
+		app:cardBackgroundColor="@color/colorAccent"
+		app:layout_constraintBottom_toTopOf="@+id/other_Location"
+		app:layout_constraintStart_toEndOf="@+id/textView"
+		app:layout_constraintTop_toTopOf="parent"
+		app:layout_constraintVertical_bias="0.952">
+
+		<RelativeLayout
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:paddingLeft="20dp"
+			android:paddingRight="40dp">
+
+			<ImageView
+				android:id="@+id/img_create_event_icon"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:src="@drawable/targetp" />
+
+			<Button
+				android:id="@+id/lbl_createEvent"
+				android:layout_width="293dp"
+				android:layout_height="match_parent"
+				android:layout_marginLeft="31dp"
+				android:layout_toRightOf="@+id/img_create_event_icon"
+				android:background="@color/colorPrimary"
+				android:onClick="getCurrentLoc"
+				android:text="At current location"
+				android:textColor="@color/accent"
+				android:textSize="22dp"
+				android:textStyle="bold" />
+		</RelativeLayout>
+	</androidx.cardview.widget.CardView>
+
+	<Button
+		android:id="@+id/other_Location"
+		android:layout_width="match_parent"
+		android:layout_height="60dp"
+		android:layout_margin="20dp"
+		android:layout_marginStart="17dp"
+		android:layout_marginEnd="17dp"
+		android:layout_marginBottom="651dp"
+		android:background="@drawable/button_border"
+		android:onClick="goPlacePicker"
+		android:text="At some other location"
+		android:textColor="@color/colorAccent"
+		android:textSize="22dp"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintEnd_toStartOf="@+id/textView"
+		app:layout_constraintStart_toEndOf="@+id/textView"
+		app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
